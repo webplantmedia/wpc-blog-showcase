@@ -28,6 +28,9 @@ function wpc_demo_blog_showcase_default_options() {
 			case 'excerpt2' :
 				$wpc2['display_format_blog'] = 'excerpt2';
 				break;
+			case 'content' :
+				$wpc2['display_format_blog'] = 'content';
+				break;
 		}
 	}
 	if ( isset( $_GET['lead'] ) ) {
