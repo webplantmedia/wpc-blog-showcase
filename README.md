@@ -1,1 +1,1 @@
-# wpc-blog-showcase
+# wpc-demo-blog-showcase
