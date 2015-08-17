@@ -5,7 +5,7 @@ Plugin URI: http://webplantmedia.com/
 Description: Showcase blog options on demo site
 Author: Chris Baldelomar
 Author URI: http://webplantmedia.com/
-Version: 1.1
+Version: 1.2
 License: GPLv2 or later
 */
 function wpc_demo_blog_showcase_default_options() {
